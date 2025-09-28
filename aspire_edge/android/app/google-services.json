@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059940068463",
+    "project_id": "aspireedge-100da",
+    "storage_bucket": "aspireedge-100da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059940068463:android:caa10ef55e8ada083fb19a",
+        "android_client_info": {
+          "package_name": "com.example.aspire_edge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8N4FAHvX30_ekvTDVBZ-TPEuZV3TqZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
